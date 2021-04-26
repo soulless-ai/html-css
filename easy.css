@@ -1,0 +1,24 @@
+body {
+	background-image: url(images/eugenia-clara.jpg);
+	background-size: cover;
+}
+
+div {
+	padding: 25px;
+	margin: 75px;
+	margin-bottom: 400px;
+	font-size: 5;
+	color: white;
+	border: 0px solid blue;
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
